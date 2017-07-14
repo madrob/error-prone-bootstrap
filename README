@@ -1,0 +1,9 @@
+This is a multi-module project that attempts to have a custom set of
+error-prone rules. Hoever, there is a bootstrapping problem wherein the custom
+rules can't be compiled until all of the rules exist.
+
+Reproduce this failure with
+
+`mvn clean package`
+
+
