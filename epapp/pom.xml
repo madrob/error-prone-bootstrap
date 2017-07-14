@@ -10,11 +10,4 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>ep-app</artifactId>
-
-    <dependencies>
-        <dependency>
-            <groupId>awesome.madrob</groupId>
-            <artifactId>ep-custom</artifactId>
-        </dependency>
-    </dependencies>
 </project>
